@@ -1,0 +1,35 @@
+{
+  "usuario": [
+    {
+      "id": "andre@origamid.com.br",
+      "email": "andre@origamid.com.br",
+      "nome": "André Rafael",
+      "senha": "123",
+      "rua": "Rua Ali Perto",
+      "cep": "12345678",
+      "numero": "25",
+      "estado": "RJ",
+      "cidade": "Rio de Janeiro"
+    }
+  ],
+  "produtos": [
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "andre@origamid.com.br",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "celular",
+      "nome": "Celular",
+      "usuario_id": "andre@origamid.com.br",
+      "preco": "2999",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular",
+      "fotos": null
+    }
+  ]
+}
