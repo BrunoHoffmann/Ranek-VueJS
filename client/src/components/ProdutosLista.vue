@@ -11,25 +11,32 @@
 
 <script>
 import { api } from '@/services.js';
+import { serialize } from '@/helpers.js';
 
 export default {
   name: 'ProdutosLista',
   data() {
     return {
-      produtos: null
+      produtos: null,
+      produtosPorPagina: 10,
     };
   },
+  computed: {
+    url() {
+      const query = serialize(this.$route.query);
+      return `/produtos?_limit=${this.produtosPorPagina}${query}`;
+    }
+  },
+  watch: {
+    url() {
+      this.getProdutos();
+    }
+  }, 
   methods: {
     getProdutos() {
-      api.get('/produtos')
-      .then(r => {
+      api.get(this.url).then(r => {
         this.produtos = r.data;
       });
-
-      axios.get('http://localhost:3000/produto').then(response => {
-        this.produto = response.data;
-      });
-      
     }
   },
   created() {
