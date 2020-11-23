@@ -10,12 +10,16 @@ const routes = [
     name: 'Home',
     component: Home
   },
-]
+];
+
 
 const router = new VueRouter({
   mode: 'history',
   base: process.env.BASE_URL,
-  routes
+  routes,
+  scrollBehavior () {
+    return window.scrollTo({ top: 0, behavior: 'smooth'});
+  }
 })
 
 export default router

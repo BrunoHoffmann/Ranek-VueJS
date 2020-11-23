@@ -30,6 +30,195 @@
       "vendido": "false",
       "descricao": "Esse é um novo celular",
       "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "andre@origamid.com.br",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "celular",
+      "nome": "Celular",
+      "usuario_id": "andre@origamid.com.br",
+      "preco": "2999",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "andre@origamid.com.br",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "celular",
+      "nome": "Celular",
+      "usuario_id": "andre@origamid.com.br",
+      "preco": "2999",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular",
+      "fotos": null
+    },{
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "andre@origamid.com.br",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "celular",
+      "nome": "Celular",
+      "usuario_id": "andre@origamid.com.br",
+      "preco": "2999",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular",
+      "fotos": null
+    },{
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "andre@origamid.com.br",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "celular",
+      "nome": "Celular",
+      "usuario_id": "andre@origamid.com.br",
+      "preco": "2999",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular",
+      "fotos": null
+    },{
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "andre@origamid.com.br",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "celular",
+      "nome": "Celular",
+      "usuario_id": "andre@origamid.com.br",
+      "preco": "2999",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular",
+      "fotos": null
+    },{
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "andre@origamid.com.br",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "celular",
+      "nome": "Celular",
+      "usuario_id": "andre@origamid.com.br",
+      "preco": "2999",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular",
+      "fotos": null
+    },{
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "andre@origamid.com.br",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "celular",
+      "nome": "Celular",
+      "usuario_id": "andre@origamid.com.br",
+      "preco": "2999",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular",
+      "fotos": null
+    },{
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "andre@origamid.com.br",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "celular",
+      "nome": "Celular",
+      "usuario_id": "andre@origamid.com.br",
+      "preco": "2999",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular",
+      "fotos": null
+    },{
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "andre@origamid.com.br",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "celular",
+      "nome": "Celular",
+      "usuario_id": "andre@origamid.com.br",
+      "preco": "2999",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular",
+      "fotos": null
+    },{
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "andre@origamid.com.br",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "celular",
+      "nome": "Celular",
+      "usuario_id": "andre@origamid.com.br",
+      "preco": "2999",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular",
+      "fotos": null
+    },{
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "andre@origamid.com.br",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "celular",
+      "nome": "Celular",
+      "usuario_id": "andre@origamid.com.br",
+      "preco": "2999",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular",
+      "fotos": null
     }
   ]
 }
