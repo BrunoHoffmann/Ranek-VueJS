@@ -2,9 +2,9 @@
   <form>
     <label for="nome">Nome</label>
     <input type="text" id="nome" name="nome" v-model="nome">
-    <label for="nome">Email</label>
+    <label for="email">Email</label>
     <input type="email" id="email" name="email" v-model="email">
-    <label for="nome">Senha</label>
+    <label for="senha">Senha</label>
     <input type="password" id="senha" name="senha" v-model="senha">
     <label for="cep">Cep</label>
     <input type="text" id="cep" name="cep" v-model="cep">
@@ -25,8 +25,17 @@
 </template>
 
 <script>
+import { mapFields } from '@/helpers.js';
+
 export default {
   name: 'UsuarioForm',
+  computed: {
+    ...mapFields({
+      fields: ['nome', 'email', 'senha', 'cep', 'rua', 'numero', 'bairro', 'cidade', 'estado'],
+      base: 'usuario',
+      mutation: 'UPDATE_USUARIO'
+    }),
+  },
 };
 </script>
 
