@@ -21,6 +21,18 @@
       "numero": "25",
       "estado": "RJ",
       "cidade": "Rio de Janeiro"
+    },
+    {
+      "id": "maria@origamid.com",
+      "nome": "Maria",
+      "email": "maria@origamid.com",
+      "senha": "maria",
+      "rua": "aualdwa",
+      "cep": "21321321312",
+      "numero": "213",
+      "bairro": "dwadaw",
+      "cidade": "Rio do SUl",
+      "estado": "SC"
     }
   ],
   "produtos": [
